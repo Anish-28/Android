@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">app</string>
+    <string name="Correct_toast">Correct</string>
+    <string name="Incorrect_toast">Incorrect</string>
+    <string name="True">True</string>
+    <string name="Question">Is 2 greater than 3?</string>
+    <string name="False">False</string>
+</resources>
